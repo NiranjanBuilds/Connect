@@ -1,6 +1,6 @@
-# Bio Link Page
+# Connect Page
 
-A premium, dark-themed, glassmorphic bio link page.
+A premium, dark-themed, glassmorphic connect page for all social links.
 
 ## Features
 - **UI/UX Pro Max Aesthetic**: Stunning dark theme with glowing ambient orb backgrounds.
